@@ -1,0 +1,490 @@
+[
+  {
+    "name": "VFW Post 1820",
+    "address": "3302 Airport Road, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76504",
+    "lat": 31.1118633,
+    "lng": -97.3738655
+  },
+  {
+    "name": "Northside Church of Christ",
+    "address": "3401 N. Third St., Temple, TX",
+    "county": "Bell",
+    "zipCode": "76501",
+    "lat": 31.1291734,
+    "lng": -97.3351265
+  },
+  {
+    "name": "Cross Church on Birdcreek",
+    "address": "2202 Birdcreek Drive, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76502",
+    "lat": 31.0872126,
+    "lng": -97.3903291
+  },
+  {
+    "name": "Immanuel Baptist Church",
+    "address": "1401 W. Central Ave., Temple, TX",
+    "county": "Bell",
+    "zipCode": "76504",
+    "lat": 31.1001821,
+    "lng": -97.3559168
+  },
+  {
+    "name": "Temple ISD Admin Building",
+    "address": "401 Santa Fe Way, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76501",
+    "lat": 31.0964427,
+    "lng": -97.3504749
+  },
+  {
+    "name": "Temple College",
+    "address": "130 E Marvin R Felder Drive, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76508",
+    "lat": 31.0722816,
+    "lng": -97.3471846
+  },
+  {
+    "name": "Meredith-Dunbar Early Childhood Academy",
+    "address": "1717 E. Ave. J, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76504",
+    "lat": 31.0808717,
+    "lng": -97.3274829
+  },
+  {
+    "name": "First Baptist Church of Moffat",
+    "address": "13929 Moffat Road, Temple, TX",
+    "county": "Bell",
+    "zipCode": "76502",
+    "lat": 31.1875309,
+    "lng": -97.449708
+  },
+  {
+    "name": "First Church of the Nazarene",
+    "address": "5000 S 31st St., Temple, TX",
+    "county": "Bell",
+    "zipCode": "76508",
+    "lat": 31.0530091,
+    "lng": -97.3763906
+  },
+  {
+    "name": "Belton Nazarene Church",
+    "address": "1701 Sparta Road, Belton, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.083529,
+    "lng": -97.469973
+  },
+  {
+    "name": "North Belton Annex",
+    "address": "1605 N. Main St., Belton, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.0727657,
+    "lng": -97.4574783
+  },
+  {
+    "name": "Belton Senior Center",
+    "address": "842 S. Mitchell St., Belton, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.0514515,
+    "lng": -97.4773694
+  },
+  {
+    "name": "Belton Annex",
+    "address": "550 E. Second Ave., Belton, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.0563238,
+    "lng": -97.4601244
+  },
+  {
+    "name": "Lakeview Baptist Church",
+    "address": "7717 State Highway 317, Belton, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.0961139,
+    "lng": -97.4534491
+  },
+  {
+    "name": "Bartlett City Hall",
+    "address": "140 W. Clark St., Bartlett, TX",
+    "county": "Bell",
+    "zipCode": "76511",
+    "lat": 30.7960412,
+    "lng": -97.4295169
+  },
+  {
+    "name": "Holland Community Center",
+    "address": "107 W. Travis St., Holland, TX",
+    "county": "Bell",
+    "zipCode": "76534",
+    "lat": 30.8787548,
+    "lng": -97.4038672
+  },
+  {
+    "name": "St. Joseph Catholic Church Fellowship Hall",
+    "address": "20220 FM 485, Burlington, TX",
+    "county": "Bell",
+    "zipCode": "76519",
+    "lat": 31.0350566,
+    "lng": -97.1298843
+  },
+  {
+    "name": "St. Matthews Catholic Church",
+    "address": "14051 E. U.S. Highway 190, Rogers, TX",
+    "county": "Bell",
+    "zipCode": "76569",
+    "lat": 30.9380549,
+    "lng": -97.2415793
+  },
+  {
+    "name": "Troy Community Center",
+    "address": "201 E. Main St., Troy, TX",
+    "county": "Bell",
+    "zipCode": "76579",
+    "lat": 31.206095,
+    "lng": -97.301042
+  },
+  {
+    "name": "Morgan's Point Event Center",
+    "address": "60 Morgan's Point Blvd., Morgan's Point Resort, TX",
+    "county": "Bell",
+    "zipCode": "76513",
+    "lat": 31.1467562,
+    "lng": -97.4754182
+  },
+  {
+    "name": "Little River's Freedom Road Fellowship",
+    "address": "1406 W. Church St., Little River-Academy, TX",
+    "county": "Bell",
+    "zipCode": "76554",
+    "lat": 30.9903055,
+    "lng": -97.3679583
+  },
+  {
+    "name": "Salado Annex",
+    "address": "11057 Event Drive, Salado, TX",
+    "county": "Bell",
+    "zipCode": "76571",
+    "lat": 30.9640879,
+    "lng": -97.5301553
+  },
+  {
+    "name": "Liberty Christian Center",
+    "address": "4107 Westcliff Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76543",
+    "lat": 31.1255137,
+    "lng": -97.6840639
+  },
+  {
+    "name": "Christian House of Prayer",
+    "address": "3300 E. Stan Schlueter Loop, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 31.0672623,
+    "lng": -97.7157755
+  },
+  {
+    "name": "Jackson Professional Learning Center",
+    "address": "902 Rev. R.A. Ambercrombie Drive, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76543",
+    "lat": 31.1025183,
+    "lng": -97.709871
+  },
+  {
+    "name": "Killeen Senior Center at Lions Club Park",
+    "address": "1700 E. Stan Schleuter Loop, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 31.0705093,
+    "lng": -97.7360698
+  },
+  {
+    "name": "Charis Church",
+    "address": "1401 E. Elms Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 31.0801238,
+    "lng": -97.7338163
+  },
+  {
+    "name": "First Baptist Church of Trimmier",
+    "address": "6405 Chaparral Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 31.0282883,
+    "lng": -97.6932401
+  },
+  {
+    "name": "True Deliverance Ministries",
+    "address": "709 W. Dean Ave., Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76541",
+    "lat": 31.1320014,
+    "lng": -97.7319993
+  },
+  {
+    "name": "Robert M. Shoemaker High School",
+    "address": "3302 Clear Creek Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76549",
+    "lat": 31.1016774,
+    "lng": -97.7964792
+  },
+  {
+    "name": "Skyline Baptist Church",
+    "address": "906 Trimmier Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76541",
+    "lat": 31.1092309,
+    "lng": -97.7279788
+  },
+  {
+    "name": "Westside Baptist Church",
+    "address": "711 Stagecoach Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 31.0564849,
+    "lng": -97.7576395
+  },
+  {
+    "name": "Killeen Utilities Department",
+    "address": "210 W. Ave. C, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76541",
+    "lat": 31.1217922,
+    "lng": -97.7313197
+  },
+  {
+    "name": "The Journey Church",
+    "address": "5300 Bunny Trail, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76549",
+    "lat": 31.0830917,
+    "lng": -97.7858623
+  },
+  {
+    "name": "Pershing Park Baptist Church",
+    "address": "1200 FM Old 440 Road, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76549",
+    "lat": 31.107002,
+    "lng": -97.753829
+  },
+  {
+    "name": "Triple 7 Fire Station",
+    "address": "258 Triple 7 Trial, Killeen, TX",
+    "county": "Bell",
+    "zipCode": "76542",
+    "lat": 30.9803975,
+    "lng": -97.7724721
+  },
+  {
+    "name": "St. Paul Chong Hasang Catholic Church",
+    "address": "1000 E. FM 2410, Harker Heights, TX",
+    "county": "Bell",
+    "zipCode": "76559",
+    "lat": 31.0558905,
+    "lng": -97.590146
+  },
+  {
+    "name": "VFW Post 3892",
+    "address": "201 VFW Drive, Harker Heights, TX",
+    "county": "Bell",
+    "zipCode": "76548",
+    "lat": 31.085562,
+    "lng": -97.645773
+  },
+  {
+    "name": "Harker Heights Parks & Recreation Center",
+    "address": "307 Millers Crossing, Harker Heights, TX",
+    "county": "Bell",
+    "zipCode": "76548",
+    "lat": 31.0668526,
+    "lng": -97.6636572
+  },
+  {
+    "name": "Nolanville City Hall",
+    "address": "101 N. Fifth St., Nolanville, TX",
+    "county": "Bell",
+    "zipCode": "76559",
+    "lat": 31.0793266,
+    "lng": -97.6144504
+  },
+  {
+    "name": "Boys Ranch Road",
+    "address": "3275 Boys Ranch Road, Kempner, TX",
+    "county": "Bell",
+    "zipCode": "76539",
+    "lat": 31.057785,
+    "lng": -97.878945
+  },
+  {
+    "name": "Copperas Cove Civic Center",
+    "address": "1206 W. Ave. B, Copperas Cove, TX",
+    "county": "Coryell",
+    "zipCode": "76522",
+    "lat": 31.135197,
+    "lng": -97.9185313
+  },
+  {
+    "name": "Holy Family Catholic Church",
+    "address": "1001 Georgetown Road., Copperas Cove, TX",
+    "county": "Coryell",
+    "zipCode": "76522",
+    "lat": 31.1165946,
+    "lng": -97.9079362
+  },
+  {
+    "name": "Eastside Baptist Church",
+    "address": "1202 ML King Jr. Blvd., Copperas Cove, TX",
+    "county": "Coryell",
+    "zipCode": "76522",
+    "lat": 31.117627,
+    "lng": -97.8783735
+  },
+  {
+    "name": "Gatesville Civic Center",
+    "address": "303 Veterans Memorial Loop, Gatesville, TX",
+    "county": "Coryell",
+    "zipCode": "76528",
+    "lat": 31.4346868,
+    "lng": -97.7085861
+  },
+  {
+    "name": "Turnersville Community Center",
+    "address": "8115 FM 182, Gatesville, TX",
+    "county": "Coryell",
+    "zipCode": "76528",
+    "lat": 31.4157412,
+    "lng": -97.7123274
+  },
+  {
+    "name": "Evant City Hall",
+    "address": "598 E. Highway 84, Evant, TX",
+    "county": "Coryell",
+    "zipCode": "76525",
+    "lat": 31.4785719,
+    "lng": -98.14551
+  },
+  {
+    "name": "Flat Community Center",
+    "address": "159 CR 334, Flat, TX",
+    "county": "Coryell",
+    "zipCode": "76528",
+    "lat": 31.309673,
+    "lng": -97.6273006
+  },
+  {
+    "name": "Oglesby Community Center",
+    "address": "118 Main St., Oglesby, TX",
+    "county": "Coryell",
+    "zipCode": "76561",
+    "lat": 31.4190554,
+    "lng": -97.5063061
+  },
+  {
+    "name": "New Covenant Church",
+    "address": "1604 Central Texas Expressway, Lampasas, TX",
+    "county": "Lampasas",
+    "zipCode": "76550",
+    "lat": 31.0628389,
+    "lng": -98.1619417
+  },
+  {
+    "name": "Kempner Fire Dept. Training",
+    "address": "315 S. Pecan, Kempner, TX",
+    "county": "Lampasas",
+    "zipCode": "76539",
+    "lat": 31.0778587,
+    "lng": -98.0026366
+  },
+  {
+    "name": "Clear Creek Baptist",
+    "address": "3350 FM 2657, Kempner, TX",
+    "county": "Lampasas",
+    "zipCode": "76539",
+    "lat": 31.064183,
+    "lng": -97.950469
+  },
+  {
+    "name": "Lometa City Hall",
+    "address": "100 E. San Saba St., Lometa, TX",
+    "county": "Lampasas",
+    "zipCode": "76853",
+    "lat": 31.2188932,
+    "lng": -98.3907128
+  },
+  {
+    "name": "Adamsville Community Center",
+    "address": "174 CR 3750, Adamsville, TX",
+    "county": "Lampasas",
+    "zipCode": "76550",
+    "lat": 31.3015351,
+    "lng": -98.1655416
+  },
+  {
+    "name": "Cameron Housing Authority",
+    "address": "704 W. Sixth St., Cameron, TX",
+    "county": "Milam",
+    "zipCode": "76520",
+    "lat": 30.8558845,
+    "lng": -96.9850184
+  },
+  {
+    "name": "Cameron Family Life Center",
+    "address": "112 N. Travis Ave., Cameron, TX",
+    "county": "Milam",
+    "zipCode": "76520",
+    "lat": 30.8517916,
+    "lng": -96.9782171
+  },
+  {
+    "name": "George Hill Patterson Center",
+    "address": "609 Mill St., Rockdale, TX",
+    "county": "Milam",
+    "zipCode": "76567",
+    "lat": 30.6497166,
+    "lng": -97.0092223
+  },
+  {
+    "name": "Buckholts Community Center",
+    "address": "110 W. Main, Buckholts, TX",
+    "county": "Milam",
+    "zipCode": "76518",
+    "lat": 30.876268,
+    "lng": -97.1289655
+  },
+  {
+    "name": "Thorndale Area Chamber of Commerce",
+    "address": "120 S. Main, Thorndale, TX",
+    "county": "Milam",
+    "zipCode": "76577",
+    "lat": 30.6125978,
+    "lng": -97.2054796
+  },
+  {
+    "name": "Milano VFD",
+    "address": "305 E. Ave. C, Milano, TX",
+    "county": "Milam",
+    "zipCode": "76556",
+    "lat": 30.7090011,
+    "lng": -96.867499
+  },
+  {
+    "name": "Gause VFD",
+    "address": "116 E. Gause Blvd., Gause, TX",
+    "county": "Milam",
+    "zipCode": "77857",
+    "lat": 30.7862682,
+    "lng": -96.7235342
+  }
+]
